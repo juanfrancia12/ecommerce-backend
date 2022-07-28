@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "email": "admin@gmail.com",
+    "password": "admin123",
+    "name": "Juan",
+    "lastName": "Francia Sánchez",
+    "uri": "@admin",
+    "image": "https://forococheselectricos.com/wp-content/uploads/2021/06/2_insert_main-1280x720.jpg",
+    "role": 1
+  }
+]
